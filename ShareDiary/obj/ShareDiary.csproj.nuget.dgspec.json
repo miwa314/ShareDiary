@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/suzukiryutaro/Desktop/repos/ShareDiary/ShareDiary/ShareDiary.csproj": {}
+    "/Users/miwa/Desktop/repos/ShareDiary/ShareDiary/ShareDiary.csproj": {}
   },
   "projects": {
-    "/Users/suzukiryutaro/Desktop/repos/ShareDiary/ShareDiary/ShareDiary.csproj": {
+    "/Users/miwa/Desktop/repos/ShareDiary/ShareDiary/ShareDiary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/suzukiryutaro/Desktop/repos/ShareDiary/ShareDiary/ShareDiary.csproj",
+        "projectUniqueName": "/Users/miwa/Desktop/repos/ShareDiary/ShareDiary/ShareDiary.csproj",
         "projectName": "ShareDiary",
-        "projectPath": "/Users/suzukiryutaro/Desktop/repos/ShareDiary/ShareDiary/ShareDiary.csproj",
-        "packagesPath": "/Users/suzukiryutaro/.nuget/packages/",
-        "outputPath": "/Users/suzukiryutaro/Desktop/repos/ShareDiary/ShareDiary/obj/",
+        "projectPath": "/Users/miwa/Desktop/repos/ShareDiary/ShareDiary/ShareDiary.csproj",
+        "packagesPath": "/Users/miwa/.nuget/packages/",
+        "outputPath": "/Users/miwa/Desktop/repos/ShareDiary/ShareDiary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/suzukiryutaro/.nuget/NuGet/NuGet.Config"
+          "/Users/miwa/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }
